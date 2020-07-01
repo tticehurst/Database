@@ -4,6 +4,8 @@ def add(x, y): # Option 1
 def subtract(x, y): # Option 2
   return x - y
 
+import time
+
 def multiply(x, y): # Option 3
   return x * y
 
@@ -17,7 +19,7 @@ print("3. Multiply")
 print("4. Divide")
 
 
-while true:
+while True:
     choice = input("Enter choice (1/2/3/4): ") # Takes input from the user
 
     if choice in ('1','2','3','4'): # Checks if choice is one of the 4 options
@@ -39,3 +41,5 @@ while true:
 
 else:
     print("Invalid Input")
+
+time.sleep(3)
