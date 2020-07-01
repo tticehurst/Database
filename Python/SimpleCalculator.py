@@ -37,9 +37,9 @@ while True:
 
     elif choice == '4':
         print(num1, "/", num2, "=", divide(num1, num2))
-    break
 
-else:
-    print("Invalid Input")
+    elif choice not in ('1','2','3','4'):
+        print("Invalid Input")
+        break
 
 time.sleep(3)
