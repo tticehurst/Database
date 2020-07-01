@@ -1,10 +1,10 @@
+import time
+
 def add(x, y): # Option 1
   return x + y
 
 def subtract(x, y): # Option 2
   return x - y
-
-import time
 
 def multiply(x, y): # Option 3
   return x * y
