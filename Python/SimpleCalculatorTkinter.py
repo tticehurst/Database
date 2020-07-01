@@ -54,9 +54,10 @@ class Calculator:
 
     def click(self,text,write):
         # this function handles what happens when you click a button
-        # 'write' argument if True means the value 'val' should be written on screen, if None, should not be written on screen
+        # 'write' argument if True means the value 'val' should be written on screen,
+        # if None, Nothing should be written on screen
         if write == None:
-        #only evaluate code when there is an equation to be evaluated
+        # only evaluate code when there is an equation to be evaluated
             if text == '=' and self.equation:
                 # replace the unicode value of division ./.with python division symbol / using regex
                 self.equation= re.sub(u"\u00F7", '/', self.equation)
@@ -74,8 +75,7 @@ class Calculator:
 
 
     def clear_screen(self):
-        #to clear screen
-        #set equation to empty before deleting screen
+        # sets equation to empty before deleting screen
         self.equation = ''
         self.screen.configure(state='normal')
         self.screen.delete('1.0', END)
@@ -83,7 +83,7 @@ class Calculator:
     def insert_screen(self, value,newline=False):
         self.screen.configure(state='normal')
         self.screen.insert(END,value)
-        # record every value inserted in screen
+        # records every value inserted in screen
         self.equation += str(value)
         self.screen.configure(state ='disabled')
 
