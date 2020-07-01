@@ -17,7 +17,7 @@ print("3. Multiply")
 print("4. Divide")
 
 
-while true:
+while True:
     choice = input("Enter choice (1/2/3/4): ") # Takes input from the user
 
     if choice in ('1','2','3','4'): # Checks if choice is one of the 4 options
