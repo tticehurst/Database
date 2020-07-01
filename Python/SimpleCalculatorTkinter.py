@@ -15,7 +15,9 @@ class Calculator:
 
         # Create buttons using method createButton
         b1 = self.createButton(7)
-        b2 = self.
+        b2 = self.createButton(8)
+        b3 = self.createButton(9)
+        b4 = self.createButton(u"\u232B",None)
 
 
 root = Tk()
