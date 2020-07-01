@@ -13,6 +13,10 @@ class Calculator:
         # Initialize screen value as empty
         self.equation = ''
 
+        # Create buttons using method createButton
+        b1 = self.createButton(7)
+        b2 = self.
+
 
 root = Tk()
 my_calc = Calculator(root)
