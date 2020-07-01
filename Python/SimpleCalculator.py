@@ -4,6 +4,8 @@ def add(x, y): # Option 1
 def subtract(x, y): # Option 2
   return x - y
 
+import time
+
 def multiply(x, y): # Option 3
   return x * y
 
@@ -39,3 +41,5 @@ while True:
 
 else:
     print("Invalid Input")
+
+time.sleep(3)
