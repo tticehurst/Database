@@ -1,5 +1,5 @@
-from tkinter import *
-from time import *
+import tkinter
+import time
 
 root = Tk()
 root.title('Clock')
