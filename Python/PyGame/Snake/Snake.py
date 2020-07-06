@@ -50,6 +50,13 @@ class Food():
     def is_eaten(self, head):
         return self.food.colliderect(head)
     # Returns a new position for the food after it is eaten
-    def new_pos(self):
+    def new_pos(self, random):
         self.x = random.radint(0, screen_width-self.width)
-        self.y = rando.radint(0, screen_height-self.height)
+        self.y = random.radint(0, screen_height-self.height)
+
+# The snake object
+class Player():
+    # Initialization
+    def __init__(self, screen):
+        self.x= screen.width/2
+        self.y
