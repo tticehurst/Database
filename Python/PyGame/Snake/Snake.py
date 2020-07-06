@@ -78,7 +78,7 @@ class Player():
                 pg.draw.rect(surface, self.body_color, segment) # Telling it where it moves (I think)
                 self.seg.append(segment)
     # Increases length of the snake
-    def add_unit(self):
+    def add_unit(self, index):
         if len(self.body) != 0: # if lenghth is not equal to 0
             index.len(self.body)-1
             x = self.body[index][0]
@@ -96,3 +96,4 @@ class Player():
         # Collision with the boundries
         if self.y < 0 or self.y > screen_height - self.height or self.x < 0 or self.x > screen_width - self.width:
             return True
+        # Moves the snake in the direction
