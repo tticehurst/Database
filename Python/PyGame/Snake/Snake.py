@@ -96,4 +96,29 @@ class Player():
         # Collision with the boundries
         if self.y < 0 or self.y > screen_height - self.height or self.x < 0 or self.x > screen_width - self.width:
             return True
-        # Moves the snake in the direction
+        # Moves the snake in the direction of its head
+        def move(self):
+            for index in range(len(self.body)-1, 0, -1):
+                x = self.body[index-1][0]
+                y = self.body[index-1][1]
+                self.body[index] = [x,y]
+            if len(self.body) > 0:
+                self.body[0] = [self.x, self.y]
+            if self.direction == 'up':
+                self.y -= self.velocity
+            if self.direction == 'down':
+                self.y += self.velocity
+            if self.direction == 'left':
+                self.x -= self.velocity
+            if self.direction == 'right':
+                self.x += self.velocity
+        # Changes direction of its head
+        def change_direction(self, direction):
+            if self.direction != 'down' and direction == 'up': 
+                self.direction = 'up'
+            if self.direction != 'right' and direction == 'left':
+                self.direction = 'left'
+            if self.direction != 'up' and direction == 'down':
+                self.direction = 'down'
+            if self.direction != 'left' and direction == 'right':
+                self.direction = 'right'
