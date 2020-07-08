@@ -1,6 +1,7 @@
 import pygame
 from paddle import Paddle
 from ball import Ball
+
 pygame.init()
 
 # Colors
