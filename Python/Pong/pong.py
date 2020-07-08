@@ -41,6 +41,17 @@ while carryOn:
         elif event.type==pygame.KEYDOWN:
             if event.key==pygame.K_x: # Pressing the x Key will quit the game
                 carryOn = False
+    
+    # Moving the paddles
+    keys = pygame.key.get_pressed()
+    if keys[pygame.K_w]:
+        paddleA.moveUp(5)
+    if keys[pygame.K_s]:
+        paddleA.moveDown(5)
+    if keys[pygame.K_UP]:
+        paddleB.moveUp(5)
+    if keys[pygame.K_DOWN]:
+        paddleB.moveDown(5)
 
     # Game logic should go here
     all_sprites_list.update()

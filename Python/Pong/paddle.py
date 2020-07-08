@@ -26,7 +26,7 @@ class Paddle(pygame.sprite.Sprite):
     
     def moveDown(self, pixels):
         self.rect.y += pixels # If y is higher than the pixels
-        if self.y > 400:
+        if self.rect.y > 400:
             self.rect.y = 400
 
         
