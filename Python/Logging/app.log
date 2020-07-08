@@ -1,0 +1,6 @@
+08-Jul-20 17:04 - DEBUG - This is a debug message
+08-Jul-20 17:04 - INFO - This is an info message
+08-Jul-20 17:04 - WARNING - This is an warning message
+08-Jul-20 17:04 - ERROR - This is an error message
+08-Jul-20 17:04 - CRITICAL - This is a critical message
+08-Jul-20 17:04 - ERROR - bob raised an error
