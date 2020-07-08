@@ -1,7 +1,6 @@
 import pygame
 from paddle import Paddle
 from ball import Ball
-from random import randint
 
 pygame.init()
 
@@ -39,6 +38,10 @@ carryOn = True
 # The clock will be used to control how fast the screen updates
 clock = pygame.time.Clock()
 
+# Initialise player scores
+scoreA = 0
+scoreB = 0
+
 # Main program loop
 while carryOn:
     # Main event loop
@@ -58,22 +61,27 @@ while carryOn:
     if keys[pygame.K_UP]:
         paddleB.moveUp(5)
     if keys[pygame.K_DOWN]:
-        paddleB.moveDown(5)
+        paddleB.moveDown(5) # <- how to increase paddle speed
 
     # Game logic should go here
     all_sprites_list.update()
 
     # Check if the ball is hitting the side of the window
     if ball.rect.x>=690:
+        scoreA+=1
         ball.velocity[0] = -ball.velocity[0]
     if ball.rect.x<=0:
+        scoreB+=1
         ball.velocity[0] = -ball.velocity[0]
     if ball.rect.y>490:
         ball.velocity[1] = -ball.velocity[1]
     if ball.rect.y<0:
         ball.velocity[1] = -ball.velocity[1]
 
-    # Drawing code should go here
+    # Detect collisions between the ball and the paddles
+    if pygame.sprite.collide_mask(ball,paddleA) or pygame.sprite.collide_mask(ball,paddleB):
+        ball.bounce()
+
     # First, clear the screen to black
     screen.fill(BLACK)
    
@@ -82,6 +90,13 @@ while carryOn:
     
     # Draw the sprites all in one go
     all_sprites_list.draw(screen)
+
+    # Display scores
+    font = pygame.font.Font(None, 74)
+    text = font.render(str(scoreA), 1, WHITE)
+    screen.blit(text, (250,10))
+    text = font.render(str(scoreB), 1, WHITE)
+    screen.blit(text, (420,10))
 
     # Update the display with what was drawn
     pygame.display.flip()
