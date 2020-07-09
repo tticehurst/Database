@@ -1,6 +1,4 @@
 import pygame
-from paddle import Paddle
-from ball import Ball
 from random import randint
 
 pygame.init()
