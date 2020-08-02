@@ -1,0 +1,16 @@
+// Public - This makes the main method public which means we can call the method from outside the class.
+// Static - We do not need to create object for static methods to run. They can run itself.
+// Void - It does not return anything.
+// Main - It is the method name. This is the entry point method from which the JVM can run your program.
+// (String[] args) - Used for command line arguments that are passed as strings.
+--------------------------------------------------------------------------------
+// data_type variable_name = value;
+// static int to print integer
+// static char to print character
+// System.out.printf("Number = %s\nChar = %s", num, ch); - Allows printing of multiple variables
+// Static variables are also known as class variables
+// public static String - Type of variable is 'string'
+// Three types of variables - Local variables, Static (class) variables and instance variables
+// Changes to a static variable will apply to all static variables. A change to static variables will change all static variablesa
+// Unlike static variables, a change to instance variables won't change all instance variables
+// Local variables can only be accessed in that method
