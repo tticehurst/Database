@@ -21,8 +21,8 @@ public class TableData {
 	TableData() {
 		frame = new JFrame();
 		frame.setTitle("Table");
-		String[][] data = { { "test", "test", "test" } };
-		String[] columnNames = { "column1", "column2", "column3" };
+		String[][] data = { { "test", "test", "test", "delete" } };
+		String[] columnNames = { "column1", "column2", "column3", "column4" };
 
 		table = new JTable(data, columnNames);
 
