@@ -3,3 +3,6 @@
 **/.idea/
 **/.iml/
 **/out/
+**/node_modules/
+**/.env/
+Javascript/Discord Bot/.env
