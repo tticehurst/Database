@@ -30,6 +30,7 @@ public class Main implements ActionListener {
         textArea.setText(textArea.getText().concat("You have clicked the button\n"));
     }
     public static void main(String[] args) {
+        @SuppressWarnings("unused")
         Main test = new Main();
     }
 }
