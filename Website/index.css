@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 0, 170);
+}
+
+#box{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#box * {
+   font-size: 5rem;
+   font-family: "comic sans ms";
+   font-style: oblique;
+   color: hotpink; 
+   margin-right: 3rem;
+}
