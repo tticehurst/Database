@@ -4,7 +4,9 @@
 
 **2)** Merge that branch into the folder for that issue and give it the name of the user and date. Example: [DATE]-[USER]
 
-**3)** Delete the old branch.
+**3)** Add fix that worked for them at the top of the file in bold/underlined
+
+**4)** Delete the old branch.
 
 ------ 
 **THIS IS SUBJECT TO CHANGE**
