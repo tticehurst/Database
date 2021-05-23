@@ -1,5 +1,3 @@
-File name format: [DATE]-[USER].md
-
 # **FIX THAT WORKED: ADWCLEANER**
 
 Steps tried:
