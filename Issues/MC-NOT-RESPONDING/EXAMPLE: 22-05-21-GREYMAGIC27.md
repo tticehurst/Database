@@ -1,4 +1,4 @@
-# **FIX THAT WORKED: RAN ADWCLEANER**
+# **FIX THAT WORKED: ADWCLEANER**
 
 Steps tried:
 1) Blah
