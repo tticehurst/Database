@@ -2,7 +2,7 @@ Website: https://greymagic27.github.io/Support-Fixes
 
 **How it works**
 ------
-**1)** Create a new branch for every issue and note down what was tried and what worked to fix it. Example: [DATE]-[USER]-[ISSUE]
+**1)** Create a new branch for every issue and note down what was tried and what worked to fix it. Example: [USER]-[ISSUE]
 
 **2)** Merge that branch into the folder for that issue and give it the name of the user and date. Example: [DATE]-[USER]
 
