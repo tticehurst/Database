@@ -1,6 +1,6 @@
 # **FIX THAT WORKED: RAN ADWCLEANER**
 
-Fixes tried:
-- Blah
-- Blah
-- Blah
+Steps tried:
+1) Blah
+2) Blah
+3) Blah
