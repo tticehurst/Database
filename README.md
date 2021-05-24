@@ -11,6 +11,6 @@ Website: https://greymagic27.github.io/Support-Fixes
 **4)** Delete the old branch.
 
 ------ 
-## **ONLY ADD TECH ISSUE FOLDERS. ACCOUNT ISSUES ARE NOT WORTH ADDING.**
+## **ONLY ADD TECH ISSUE FOLDERS. ACCOUNT & MOD ISSUES ARE NOT WORTH ADDING.**
 
 **THIS FILE IS SUBJECT TO CHANGE.**
