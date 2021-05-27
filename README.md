@@ -1,6 +1,6 @@
 Website: https://greymagic27.github.io/Support-Fixes
 
-**How it works**
+**How it works - Minecraft Support Fixes**
 ------
 **1)** Create a new branch for every issue and note down what was tried and what worked to fix it. Example: [USER]-[ISSUE]
 
