@@ -8,6 +8,6 @@ Link to 1.17 caves/cliffs datapack: https://launcher.mojang.com/v1/objects/622bf
 How to install the datapack: https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack
 
 ### JNI Error:
-See the FAQ: https://www.reddit.com/r/Minecraft/wiki/cavesandcliffspt1#wiki_i.27m_getting_an_.22unable_to_locate_the_java_runtime.22_or_.22a_jni_error_has_occurred.2C_please_check_your_installation_and_try_again.22_error_when_trying_to_run_minecraft._how_do_i_fix_this.3F
+See the FAQ: https://www.reddit.com/r/Minecraft/wiki/cavesandcliffspt1
 	
 For further help contact community support via discord: https://discord.gg/58Sxm23
