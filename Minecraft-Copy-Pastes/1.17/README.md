@@ -1,4 +1,4 @@
-Reddit Link: https://www.reddit.com/r/Minecraft/comments/o2oxc0/noglow_zombies_minecraft_1171_prerelease_1_is_out/?sort=new
+Reddit Link: https://www.reddit.com/r/Minecraft/comments/oab96b/more_bug_fixes_minecraft_1171_prerelease_2_is_out/?sort=new
 
 ### Datapack Link: 
 No generation changes were done in 1.17. If you want the expanded caves and cliffs, you'll need to use the caves+cliffs preview datapack:
