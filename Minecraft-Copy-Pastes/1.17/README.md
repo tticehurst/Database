@@ -15,6 +15,6 @@ For further help contact community support via discord: https://discord.gg/58Sxm
 ## MOJIRA
 - https://bugs.mojang.com/browse/MC-228425 - atio6axx.dll in JNI.invokePPPP
 
-- https://bugs.mojang.com/browse/MC-230504 - atig6pxx.dll in JNI.invokePPPP
+- https://bugs.mojang.com/browse/MC-230504 - atig6pxx.dll+0x4757 in JNI.invokePPPP
 
-- https://bugs.mojang.com/browse/MCL-18484 - atig6pxx.dll in JNI.invokePPPP
+- https://bugs.mojang.com/browse/MCL-18484 - atig6pxx.dll+0xa662 in JNI.invokePPPP
