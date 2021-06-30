@@ -12,14 +12,3 @@ How to install the datapack: https://minecraft.fandom.com/wiki/Tutorials/Install
 See the FAQ: https://www.reddit.com/r/Minecraft/wiki/cavesandcliffspt1
 	
 For further help contact community support via discord: https://discord.gg/58Sxm23
-
-## MOJIRA
-- https://bugs.mojang.com/browse/MC-228425 - atio6axx.dll in JNI.invokePPPP
-
-- https://bugs.mojang.com/browse/MC-230272 - atio6axx.dll in JNI.invokePPP
-
-- https://bugs.mojang.com/browse/MC-230504 - atig6pxx.dll+0x4757 in JNI.invokePPPP
-
-- https://bugs.mojang.com/browse/MCL-18484 - atig6pxx.dll+0xa662 in JNI.invokePPPP
-
-- https://bugs.mojang.com/browse/MC-228872 - nvwgf2umx.dll in JNI.invokePV
