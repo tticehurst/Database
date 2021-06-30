@@ -1,16 +1,25 @@
-Website: https://greymagic27.github.io/Support-Fixes
+# Current links:
+Reddit Link: https://www.reddit.com/r/Minecraft/comments/oab96b/more_bug_fixes_minecraft_1171_prerelease_2_is_out/?sort=new
 
-**How it works - Minecraft Support Fixes**
-------
-**1)** Create a new branch for every issue and note down what was tried and what worked to fix it. Example: [USER]-[ISSUE]
+### Datapack Link: 
+No generation changes were done in 1.17. If you want the expanded caves and cliffs, you'll need to use the caves+cliffs preview datapack:
 
-**2)** Merge that branch into the folder for that issue and give it the name of the user and date. Example: [DATE]-[USER]
+Link to 1.17 caves/cliffs datapack: https://launcher.mojang.com/v1/objects/622bf0fd298e1e164ecd05d866045ed5941283cf/CavesAndCliffsPreview.zip
+	
+How to install the datapack: https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack
 
-**3)** Add fix that worked for them at the top of the file in bold/underlined
+### JNI Error:
+See the FAQ: https://www.reddit.com/r/Minecraft/wiki/cavesandcliffspt1
+	
+For further help contact community support via discord: https://discord.gg/58Sxm23
 
-**4)** Delete the old branch.
+## MOJIRA
+- https://bugs.mojang.com/browse/MC-228425 - atio6axx.dll in JNI.invokePPPP
 
------- 
-## **ONLY ADD TECH ISSUE FOLDERS. ACCOUNT & MOD ISSUES ARE NOT WORTH ADDING.**
+- https://bugs.mojang.com/browse/MC-230272 - atio6axx.dll in JNI.invokePPP
 
-**THIS FILE IS SUBJECT TO CHANGE.**
+- https://bugs.mojang.com/browse/MC-230504 - atig6pxx.dll+0x4757 in JNI.invokePPPP
+
+- https://bugs.mojang.com/browse/MCL-18484 - atig6pxx.dll+0xa662 in JNI.invokePPPP
+
+- https://bugs.mojang.com/browse/MC-228872 - nvwgf2umx.dll in JNI.invokePV
