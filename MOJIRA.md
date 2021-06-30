@@ -10,3 +10,6 @@
 - https://bugs.mojang.com/browse/MC-228872 - nvwgf2umx.dll in JNI.invokePV
 
 - https://bugs.mojang.com/browse/MC-229195 - ntdll.dll in JNI.invokePV (When using Streamlabs OBS)
+
+## Bug reports
+- https://bugs.mojang.com/browse/MCL-18306 - Your Java Runtime is incompatible
