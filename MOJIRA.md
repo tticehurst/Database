@@ -11,5 +11,8 @@
 
 - https://bugs.mojang.com/browse/MC-229195 - ntdll.dll in JNI.invokePV (When using Streamlabs OBS)
 
-## Bug reports
+## Bug Reports
 - https://bugs.mojang.com/browse/MCL-18306 - Your Java Runtime is incompatible
+
+## Helpful Links
+- https://help.minecraft.net/hc/en-us/articles/360050865492 - FAQ states when capes will be released to players
