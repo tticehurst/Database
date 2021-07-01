@@ -1,7 +1,5 @@
 # Current links:
-Current Reddit Link: https://www.reddit.com/r/Minecraft/comments/ob0ihf/save_the_axolotls_minecraft_1171_prerelease_3_is/?sort=new
-
-Old Reddit Link: https://www.reddit.com/r/Minecraft/comments/oab96b/more_bug_fixes_minecraft_1171_prerelease_2_is_out/?sort=new
+Current Reddit Link: https://www.reddit.com/r/Minecraft/comments/obosx7/a_new_candidate_approaches_minecraft_1171_release/?sort=new
 
 ### Datapack Link: 
 No generation changes were done in 1.17. If you want the expanded caves and cliffs, you'll need to use the caves+cliffs preview datapack:
