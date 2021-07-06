@@ -1,5 +1,5 @@
 # Current links:
-Current Reddit Link: https://www.reddit.com/r/Minecraft/comments/oe9dgj/wait_again_minecraft_1171_release_candidate_2_is/?sort=new
+Current Reddit Link: https://www.reddit.com/r/Minecraft/comments/oev70t/minecraft_java_edition_1171_has_been_released/?sort=new
 
 ## Datapack Link: 
 No generation changes were done in 1.17. If you want the expanded caves and cliffs, you'll need to use the caves+cliffs preview datapack:
