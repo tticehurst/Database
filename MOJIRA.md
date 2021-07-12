@@ -13,6 +13,3 @@
 - https://bugs.mojang.com/browse/MCL-18306 - Your Java Runtime is incompatible
 
 - https://bugs.mojang.com/browse/WEB-4414 - Store currency incorrect
-
-## Helpful Links
-- https://help.minecraft.net/hc/en-us/articles/360050865492 - FAQ states when capes will be released to players
