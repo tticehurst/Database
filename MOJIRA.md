@@ -1,7 +1,5 @@
 ## DLL Crashes
-- https://bugs.mojang.com/browse/MC-228425 - atio6axx.dll+0xd28ffb in JNI.invokePPPP
-
-- https://bugs.mojang.com/browse/MC-230272 - atio6axx.dll+0xd1cd83 in JNI.invokePPPP
+- https://bugs.mojang.com/browse/MC-228425 - atio6axx.dll in JNI.invokePPPP
 
 - https://bugs.mojang.com/browse/MC-230504 - atig6pxx.dll+0x4757 in JNI.invokePPPP
 
