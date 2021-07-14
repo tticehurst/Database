@@ -5,6 +5,8 @@
 
 - https://bugs.mojang.com/browse/MC-229182 - C 0x0000000000000000 in JNI.invokePPPP
 
+- https://bugs.mojang.com/browse/MC-231958 - C 0x0000000000000000 in org.lwjgl.opengl.WindowsPeerInfo.nChoosePixelFormat
+
 - https://bugs.mojang.com/browse/MC-228872 - nvwgf2umx.dll in JNI.invokePV
 
 - https://bugs.mojang.com/browse/MC-229195 - ntdll.dll in JNI.invokePV (When using Streamlabs OBS)
