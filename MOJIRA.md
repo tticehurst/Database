@@ -11,6 +11,8 @@
 
 - https://bugs.mojang.com/browse/MC-229195 - ntdll.dll in JNI.invokePV (When using Streamlabs OBS)
 
+- https://bugs.mojang.com/browse/MC-229121 - C 0x00007ff95cf53760 in jdk.internal.loader.NativeLibraries.load
+
 ## Bug Reports
 - https://bugs.mojang.com/browse/MCL-18306 - Your Java Runtime is incompatible
 
