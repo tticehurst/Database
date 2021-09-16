@@ -13,6 +13,8 @@
 
 - https://bugs.mojang.com/browse/MC-229121 - C 0x00007ff95cf53760 in jdk.internal.loader.NativeLibraries.load
 
+- https://bugs.mojang.com/browse/MC-235065 - libGLProgrammability.dylib in libGLProgrammability.dylib
+
 ## Bug Reports
 - https://bugs.mojang.com/browse/MCL-18306 - Your Java Runtime is incompatible
 
