@@ -15,6 +15,8 @@
 
 - https://bugs.mojang.com/browse/MC-235065 - libGLProgrammability.dylib in libGLProgrammability.dylib
 
+- https://bugs.mojang.com/browse/MC-232065 - ~BufferBlob::vtable chunks in ~BufferBlob::vtable chunks
+
 ## Bug Reports
 - https://bugs.mojang.com/browse/MCL-18306 - Your Java Runtime is incompatible
 
