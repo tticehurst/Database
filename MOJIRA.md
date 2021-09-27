@@ -17,6 +17,8 @@
 
 - https://bugs.mojang.com/browse/MC-232065 - ~BufferBlob::vtable chunks in ~BufferBlob::vtable chunks
 
+- https://bugs.mojang.com/browse/MC-237769 - nvoglv64.dll in org.lwjgl.opengl.GL15C.nglBufferData
+
 ## Bug Reports
 - https://bugs.mojang.com/browse/MCL-18306 - Your Java Runtime is incompatible
 
