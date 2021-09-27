@@ -23,5 +23,3 @@
 - https://bugs.mojang.com/browse/MCL-18306 - Your Java Runtime is incompatible
 
 - https://bugs.mojang.com/browse/WEB-4414 - Store currency incorrect
-
-- https://bugs.mojang.com/browse/WEB-5087 - Unable to change username after migration
